@@ -29,7 +29,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 ## 📫 Contact Me
 
 - 💌 Email: [patrykloboda02@gmail.com](mailto:your_patrykloboda02@gmail.com)  
-
+- 👾 Discord: **creepyimscared**
 ---
 
 Thank you for visiting my profile! Let's connect and build something awesome together. 🌟
